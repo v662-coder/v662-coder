@@ -2,7 +2,7 @@
 )](https://rishavchanda.io
 )
 <h1 align="center">Hi 👋, I'm Vishnu Chaurasiya</h1>
-<h3 align="center">A Passionate MERN FullStack Developer From INDIA</h3>
+<h3 align="center">A Passionate MERN FullStack Developer From INDIA 😊</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*FGD6BUzzZs1VJLuY.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v662-coder&label=Profile%20views&color=0e75b6&style=flat" alt="v662-coder" /> </p>
 
