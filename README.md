@@ -1,4 +1,4 @@
-[![MasterHead](https://outlane.co/now/new-shot-programmer-animation/
+[![MasterHead](https://stock.adobe.com/search?k=programmer+cartoon
 )](https://rishavchanda.io
 )
 <h1 align="center">Hi 👋, I'm Vishnu Chaurasiya</h1>
