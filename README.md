@@ -18,6 +18,8 @@
 - 📫 How to reach me **vishnuchaurasiya1101@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v662-coder" alt="vishnu" /></a> </p>
 <p align="left">
 <a href="https://twitter.com/vishnuc69839993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishnuc69839993" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/vishnu-chaurasiya-5948291b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/vishnu-chaurasiya-5948291b2" height="30" width="40" /></a>
