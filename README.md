@@ -7,14 +7,16 @@
 </h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | MERN Stack Developer | React.js Specialist
+ Full Stack Developer | MERN Stack Developer | React.js Specialist
 </h3>
 
+
+
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;JavaScript+%7C+TypeScript;Building+Scalable+Web+Applications;Always+Learning+New+Technologies+🚀" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+Specialist;Node.js+Developer;Always+Learning+New+Technologies🚀" />
 </p>
+
+
 
 ---
 
@@ -110,7 +112,7 @@
 <img src="https://cdn.simpleicons.org/leetcode" height="48"/>
 </a>
 
-<a href="https://www.hackerrank.com/profile/vishnuchaurasiya1101">
+<a href="https://www.hackerrank.com/profile/vishnuchaurasiy1">
 <img src="https://cdn.simpleicons.org/hackerrank" height="48"/>
 </a>
 
@@ -702,7 +704,7 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=v662-coder&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img src="https://github-readme-stats.vercel.app/api?username=v662-coder&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=v662-coder&theme=tokyonight&hide_border=true&border_radius=12"/>
 
@@ -714,7 +716,7 @@
 
 <p align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v662-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v662-coder&theme=radical&layout=compact&langs_count=8"/>
 
 </p>
 
@@ -754,27 +756,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v662-coder&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Profile Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=v662-coder&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=v662-coder&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=v662-coder&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=v662-coder&theme=tokyonight&utcOffset=5.5"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=v662-coder&theme=react-dark"/>
 
 </p>
 
