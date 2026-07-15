@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*FGD6BUzzZs1VJLuY.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v662-coder&label=Profile%20views&color=0e75b6&style=flat" alt="v662-coder" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vishnuc69839993" target="blank"><img src="https://img.shields.io/twitter/follow/vishnuc69839993?logo=twitter&style=for-the-badge" alt="vishnuc69839993" /></a> </p>
+<p align="left"> <a href="https://x.com/Vishnu_1210_" target="blank"><img src="https://img.shields.io/twitter/follow/Vishnu_1210_?logo=twitter&style=for-the-badge" alt="Vishnu_1210_" /></a> </p>
 
 
 - 🔭 I’m currently working on **Study-Orbit && SmartPost Project**
@@ -22,7 +22,7 @@
 
 <p align="left">
 <a href="https://x.com/Vishnu_1210_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vishnu_1210_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/vishnu-chaurasiya-1210-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" www.linkedin.com/in/vishnu-chaurasiya-1210-" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/vishnu-chaurasiya-1210-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" www.linkedin.com/in/vishnu-chaurasiya-1210-" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@vishnuchaurasiya4086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@vishnuchaurasiya4086" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/vishnuchaurasiya1101/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vishnuchaurasiya1101/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vishnuchaurasiya1101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishnuchaurasiya1101" height="30" width="40" /></a>
