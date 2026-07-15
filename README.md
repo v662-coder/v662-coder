@@ -468,7 +468,8 @@
 
 # 🎓 StudyOrbit
 
-<img align="right" width="250" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
+<img align="right" width="250"
+src="https://user-images.githubusercontent.com/74038190/212749695-2b4b2d55-1d65-4c91-b7e6-9d2f77e63b6f.gif"/>
 
 ### 🛠 Tech Stack
 
@@ -703,11 +704,7 @@
 # 🔥 GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=v662-coder&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=v662-coder&theme=tokyonight&hide_border=true&border_radius=12"/>
-
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=v662-coder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 </p>
 
 ---
@@ -715,9 +712,7 @@
 # 💻 Most Used Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v662-coder&theme=radical&layout=compact&langs_count=8"/>
-
+<img width="55%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=v662-coder&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"/>
 </p>
 
 ---
@@ -736,7 +731,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=v662-coder&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=v662-coder&theme=algolia&row=2&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
 
 </p>
 
