@@ -120,8 +120,8 @@
 <img src="https://cdn.simpleicons.org/geeksforgeeks" height="48"/>
 </a>
 
-<a href="vishnuchaurasiya1101@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+<a href="mailto:vishnuchaurasiya1101@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email"/>
 </a>
 
 </p>
