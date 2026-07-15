@@ -730,9 +730,10 @@ src="https://user-images.githubusercontent.com/74038190/212749695-2b4b2d55-1d65-
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=v662-coder&theme=algolia&row=2&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
-
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=v662-coder&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
