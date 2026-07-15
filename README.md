@@ -731,12 +731,10 @@ src="https://user-images.githubusercontent.com/74038190/212749695-2b4b2d55-1d65-
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=v662-coder&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"
+    src="https://github-profile-trophy.vercel.app/?username=v662-coder&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"
     alt="GitHub Trophies"
   />
 </p>
-
----
 
 # 📅 Contribution Calendar
 
