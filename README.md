@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **MERN Full Stack**
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **React, JavaScript, Node js , MongoDb, Express js , Vue js and  Python & Moden Development Tools **
 
 - 📫 How to reach me **vishnuchaurasiya1101@gmail.com**
 
